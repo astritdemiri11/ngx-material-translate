@@ -225,7 +225,7 @@ translate.addTranslations({
 });
 ```
 
-You can then access the value by using the dot notation, in this case `HOME.HELLO`.
+You can then access the value by using the dot notation, in this case `HELLO`.
 
 #### 5. Use the service, the pipe, the directive or the component:
 
