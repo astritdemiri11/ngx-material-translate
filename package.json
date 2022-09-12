@@ -1,10 +1,16 @@
 {
   "name": "ngx-material-translate",
   "version": "1.0.0",
-  "description": "Scroll carousel library for Angular.",
+  "description": "The internationalization (i18n) library (including @angular/material, @ngrx/store, @ngrx/effects, @ngrx/entity) for Angular.",
   "keywords": [
-    "scroll",
-    "carousel",
+    "translate",
+    "translation",
+    "internationalization",
+    "i18n",
+    "language",
+    "material",
+    "angular material",
+    "ngrx",
     "angular"
   ],
   "author": {
