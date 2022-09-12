@@ -1,6 +1,29 @@
 {
   "name": "ngx-material-translate",
   "version": "0.0.1",
+  "description": "Scroll carousel library for Angular.",
+  "keywords": [
+    "scroll",
+    "carousel",
+    "angular"
+  ],
+  "author": {
+    "name": "Astrit Demiri",
+    "email": "astritdemiri11@gmail.com",
+    "url": "https://astritdemiri.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astritdemiri11/ngx-scroll-carousel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astritdemiri11/ngx-scroll-carousel/issues"
+  },
+  "release": {
+    "repositoryUrl": "https://github.com/astritdemiri11/ngx-scroll-carousel/releases"
+  },
+  "homepage": "https://astritdemiri.com/ng-library/ngx-scroll-carousel",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^14.1.1",
     "@angular/core": "^14.1.1",

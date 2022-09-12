@@ -7,7 +7,7 @@ import { ResponseType } from './lib/models/response/response.enum';
 import { featureKey } from './lib/state';
 import * as fromLanguageReducer from './lib/state/language/language.reducer';
 
-export { NgxMaterialTranslateModule } from './lib/ngx-material-translate.module';
+export { MaterialTranslateModule } from './lib/ngx-material-translate.module';
 
 export { LanguageComponent } from './lib/components/language/language.component';
 

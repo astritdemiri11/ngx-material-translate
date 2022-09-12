@@ -70,7 +70,6 @@ export class TranslateService {
         self.store.dispatch(TranslateActions.loadTranslationsSuccess({ feature, languageCode, translationData }));
       },
       loadTranslations: (feature: string = DEFAULT_FEATURE, path?: string, force: boolean = false) => {
-
         self.model.status(feature).pipe(take(1)).subscribe(responseType => {
           if (!force && responseType === ResponseType.Success) {
             return;
